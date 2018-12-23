@@ -34,3 +34,9 @@ Journey towards Data Science
 - Machine Learning: A probabilistic approach, Kevin Murphy
 - Deep Learning, Ian Goodfellow
 - Pattern Recognition and Machine learning, Christopher M Bishop
+
+# Workbench
+- Git
+- Visual Studio Code
+- Python Notebook (Anaconda Distribuution)
+- R and R Studio
