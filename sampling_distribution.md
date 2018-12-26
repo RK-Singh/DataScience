@@ -10,7 +10,7 @@
 8. The sample mean $\bar{x}$ is the estimate of population mean $\mu$. When $\bar{x} = \mu$, $\bar{x}$ is known as unbiased estimate. Otherwise a biased estimate.
 9. Standard error, $\displaystyle\sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}}$ ; if $\displaystyle\frac{n}{N} \leq 0.05$ otherwise with finite population corrector $\displaystyle\sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}} \sqrt{\frac{N-n}{N - 1}} $
 13. __Central limit theorem__, sampling distribution of a normal or non-normal population tends to be a normal distribution with $\mu_{\bar{x}} = \mu$ and $\displaystyle\sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}}$ for $n \geq 30$.
-14. The $z$ value for a sample value of $\bar{x}$ is $\displaystyle z = \frac{\bar{x} - \mu}{\sigma_{\bar{x}}}$
+14. The $z$ value for a sample value of $\bar{x}$ is $  z = \frac{\bar{x} - \mu}{\sigma_{\bar{x}}}$
 15. sample proportion, $\hat{p}$. Standard deviation $\sigma_{\hat{p}} = p = \sqrt{\frac{pq}{n}}$ 
 
 # Estimation of mean and proportion, Inferential statistics
